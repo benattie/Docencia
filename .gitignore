@@ -2,4 +2,5 @@
 *.exe
 *.o
 tmp/
-
+*.swp
+*.stackdump
